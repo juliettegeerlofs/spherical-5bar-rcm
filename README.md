@@ -1,7 +1,7 @@
-# Workspace-Driven Design and Experimental Validation of a Spherical 5-Bar RCM Mechanism
+# Workspace-Driven Design and Experimental Validation of a Spherical Parallel 5-Bar RCM Mechanism
 
 Code and raw measurement data accompanying the paper *"Workspace-Driven Design
-and Experimental Validation of a Spherical 5-Bar RCM Mechanism"* (Juliette
+and Experimental Validation of a Spherical Parallel 5-Bar RCM Mechanism"* (Juliette
 Geerlofs, TU Delft). This repository contains only the code and data that
 were actually used to produce the final design and the results reported in
 the paper; earlier exploratory approaches and superseded test sessions have
